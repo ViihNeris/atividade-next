@@ -21,3 +21,5 @@ Utilizada imagem de fundo com a propriedade background.
 ### Resultado 👩🏻‍💻
 
 <img width="951" alt="image" src="https://user-images.githubusercontent.com/93789218/195870218-0a2444c0-6b4e-4dcb-932a-4b24fb48fcb1.png">
+
+<i>Confira em: https://atividade-next.vercel.app/</i>
